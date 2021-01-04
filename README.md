@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/rebeccaaaaaaaaaaa/teampagechallenge/main/preview/teampage.jpg)
 
 
 ### Built With
