@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.title_presentation{
+
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+    color: #000000;
+
+}
+
+.subtitle_presentation{
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.p_presentation{
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.card_team .card{
+
+    border: unset;
+}
+
+.card_team{
+
+    padding: 35px;
+}
+
+.card_team .card-body {
+    padding: 0;
+    margin-top: 1rem;
+}
+
+.card_team .office{
+
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+    position: absolute;
+    right: -4rem;
+    top: 3rem;
+}
+
+.margin-top_10{
+
+    margin-top: 10rem;
+}
+
+@media only screen and (max-width: 320px) {
+
+    .margin-top_10, .mt-mobile {
+        margin-top: 6rem !important;
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+
+    .card_team {
+        padding: 0;
+    }
+
+    .card_team .office {
+
+        right: -2rem;
+        
+    }
+
+ 
+}
+
+
