@@ -1,20 +1,16 @@
+
 {
-  "lang": "pt",
-  "dir": "ltr",
-  "name": "Meu site em PWA",
-  "short_name": "sitePWA",
+  "name": "TESTE",
+  "short_name": "Teste",
+  "theme_color": "#2a0044",
+  "background_color": "#2a0044",
+  "display": "standalone",
+  "start_url": "/",
   "icons": [
     {
-      "src": "https://stoic-goldberg-06d75b.netlify.app/images/devchallenges.png",
-      "sizes": "192x192",
+      "src": "images/devchallenges.png",
+      "sizes": "72x72",
       "type": "image/png"
     }
-  ],
-  "theme_color": "#1a1a1a",
-  "background_color": "#1a1a1a",
-  "start_url": "https://stoic-goldberg-06d75b.netlify.app/",
-  "display": "standalone",
-  "orientation": "natural",
-  "url": "https://stoic-goldberg-06d75b.netlify.app/",
-  "screenshots": []
+  ]
 }
