@@ -4,12 +4,12 @@
     "description": "Site desenvolvido como desafio para desenvolvedores front-end.",
     "icons": [
       {
-        "src": "/images/pwa192.png",
+        "src": "/images/PWA-192X192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/images/pwa512.png",
+        "src": "/images/PWA-512X512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
