@@ -1,16 +1,22 @@
-
 {
-  "name": "TESTE",
-  "short_name": "Teste",
-  "theme_color": "#2a0044",
-  "background_color": "#2a0044",
-  "display": "standalone",
-  "start_url": "/",
-  "icons": [
-    {
-      "src": "images/devchallenges.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    }
-  ]
-}
+    "short_name": "Desafio Front-end - Team Page",
+    "name": "Desafio Front-end",
+    "description": "Site desenvolvido como desafio para desenvolvedores front-end.",
+    "icons": [
+      {
+        "src": "/images/pwa192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/pwa512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#004680",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#004680"
+  }
